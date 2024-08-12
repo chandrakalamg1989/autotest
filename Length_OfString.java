@@ -1,7 +1,10 @@
 public class Length_OfString {
 
     public static void main(String[] args) {
-        String s = new String("cha");
-        System.out.println(s.length());
+       int j=50;
+
+       for(int i=0;i<j;i++){
+           System.out.println(i);
+       }
     }
 }
